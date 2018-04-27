@@ -1,0 +1,14 @@
+{
+  "name": "escape-template-string",
+  "version": "0.1.0",
+  "description": "Escape a string so that they can be eval-ed in as a template literal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Varun Ramesh",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^22.4.3"
+  }
+}
