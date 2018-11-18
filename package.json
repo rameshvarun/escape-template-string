@@ -1,10 +1,14 @@
 {
   "name": "escape-template-string",
   "version": "0.1.0",
-  "description": "Escape a string so that they can be eval-ed in as a template literal.",
+  "description": "Escape a string so that it can be eval-ed in as a template literal.",
   "main": "index.js",
   "scripts": {
     "test": "jest"
+  },
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/rameshvarun/escape-template-string.git"
   },
   "author": "Varun Ramesh",
   "license": "MIT",
