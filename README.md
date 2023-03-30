@@ -1,4 +1,4 @@
-# escape-template-string [![Build Status](https://travis-ci.org/rameshvarun/escape-template-string.svg?branch=master)](https://travis-ci.org/rameshvarun/escape-template-string)
+# escape-template-string [![Node.js CI](https://github.com/rameshvarun/escape-template-string/actions/workflows/node.js.yml/badge.svg)](https://github.com/rameshvarun/escape-template-string/actions/workflows/node.js.yml)
 
 Escape a string so that it can be eval-ed in as a template literal.
 
